@@ -1,0 +1,57 @@
+﻿@import "../css/fonts.css" all;
+@import "../css/kolonka1.css" all;
+@import "../css/kolonka2_3.css" all;
+@import "../css/kolonka4.css" all;
+
+body{
+	background-image:url(../images/fon.png);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-attachment: fixed;
+}
+.float{
+	float: left;
+}
+.height{
+	height: 650px;
+}
+.pos_relat{
+	position: relative;
+}
+.osnovnoy_block{
+	top: 50%;
+	left: 50%;
+	width: 1080px;
+	position: absolute;
+	margin-top: -325px;
+	margin-left: -540px;
+	background-color: white;
+}
+.kolonka1 {
+	width: 180px;
+	background: #f2f2f2;
+}
+.kolonka2 {
+	width: 335px;
+	background: #FFFFFF;
+}
+.kolonka2_1 {
+	width: 5px;
+	background: #f2f2f2;
+}
+.kolonka3 {
+	width: 60px;
+	background: #FFFFFF;
+}
+.kolonka4 {
+	width: 500px;
+	background: #262626;
+}
+.a{
+	text-decoration: none;
+	color: black;
+}
+.a:visited{
+	text-decoration: none;
+	color: black;
+}

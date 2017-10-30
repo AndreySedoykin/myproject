@@ -1,0 +1,177 @@
+.sport{
+	top: 30px;
+	left: 15px;
+	width: 51px;
+	height: 23px;
+	line-height: 1.6;
+	text-align: center;
+	font-weight: 600;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+    background: #00a2ff;
+	font-size: 10pt;
+}
+.design{
+	top: 80px;
+	left: 15px;
+	width: 58px;
+	height: 23px;
+	line-height: 1.6;
+	text-align: center;
+	font-weight: 600;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+    background: #05b30e;
+	font-size: 10pt;
+}
+.life{
+	top: 140px;
+	left: 15px;
+	width: 42px;
+	height: 23px;
+	line-height: 1.6;
+	text-align: center;
+	font-weight: 600;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+    background: #d94848;
+	font-size: 10pt;
+}
+.music{
+	top: 200px;
+	left: 15px;
+	width: 49px;
+	height: 23px;
+	line-height: 1.6;
+	text-align: center;
+	font-weight: 600;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+    background: #7f5555;
+	font-size: 10pt;
+}
+.text1{
+	width: 300px;
+	left: 15px;
+	top: 30px;
+	line-height: 1.5;
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10.5pt;
+}
+.comment1{
+	left: 15px;
+	top: 30px;
+	color: #737373;
+	font-weight: 600;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+.data1{
+	left: 55px;
+	top: 30px;
+	color: #737373;
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+.text2{
+	width: 300px;
+	left: 15px;
+	top: 80px;
+	line-height: 1.5;
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10.5pt;
+}
+.comment2{
+	left: 15px;
+	top: 80px;
+	color: #737373;
+	font-weight: 600;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+.data2{
+	left: 55px;
+	top: 80px;
+	color: #737373;
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+.text3{
+	width: 300px;
+	left: 15px;
+	top: 140px;
+	line-height: 1.5;
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10.5pt;
+}
+.comment3{
+	left: 15px;
+	top: 140px;
+	color: #737373;
+	font-weight: 600;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+.data3{
+	left: 55px;
+	top: 140px;
+	color: #737373;
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+.text4{
+	width: 300px;
+	left: 15px;
+	top: 200px;
+	line-height: 1.5;
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10.5pt;
+}
+.comment4{
+	left: 15px;
+	top: 200px;
+	color: #737373;
+	font-weight: 600;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+.data4{
+	left: 55px;
+	top: 200px;
+	color: #737373;
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+.recent{
+	top: 28px;
+	transform: rotate(90deg);
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+.popular{
+	top: 65px;
+	transform: rotate(90deg);
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+.scroll{
+	top: 540px;
+	transform: rotate(90deg);
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}

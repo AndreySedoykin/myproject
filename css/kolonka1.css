@@ -1,0 +1,49 @@
+.data{
+	left: 25px;
+	top: 10px;
+	color: #737373;
+	font-family: Verdana;
+	font-size: 8pt;
+}
+.BCN{
+	text-align: center;
+	top: 30px;
+	letter-spacing: 2px;
+	font-family: Verdana;
+	font-size: 17pt;
+}
+.menu {
+	line-height: 2;
+	list-style: none;
+	list-style-type: none;
+	font-family: Verdana;
+	font-size: 8.7pt;
+	text-align: center;
+}
+.menu_block{
+	top: 90px;
+	left: -20px;
+}
+.soc_ceti{
+	top: 140px;
+	left: 30px;
+}
+.twitter{
+	left: 90px;
+}
+.facebook{
+	top: 75px;
+}
+.gradus{
+	text-align: center;
+	top: 250px;
+	font-family: Verdana;
+	font-size: 16pt;
+}
+.mesto{
+	text-align: center;
+	top: 235px;
+	color: #737373;
+	font-family: Verdana;
+	font-size: 8pt;
+}
